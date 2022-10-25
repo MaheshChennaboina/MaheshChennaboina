@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaheshChennaboina
-- 👀 I’m interested in web devloping ,ethical hacking
+- 👀 I’m interested in web devloping
 - 🌱 I’m currently learning python,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
