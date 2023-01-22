@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheshChennaboina
-- 👀 I’m interested in web devloping
-- 🌱 I’m currently learning python,
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently looking for job,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
