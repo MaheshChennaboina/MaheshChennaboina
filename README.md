@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaheshChennaboina
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in CyberSecurity and web developer
 - 🌱 I’m currently looking for job,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
