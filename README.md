@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @MaheshChennaboina
-- 👀 I’m interested in CyberSecurity and web developer
-- 🌱 I’m currently looking for job,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Mahesh Chennaboina 👋
+🛡️ Cyber Threat Intelligence Analyst | Threat Research | OSINT
 
-<!---
-MaheshChennaboina/MaheshChennaboina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Cyber Threat Intelligence professional with nearly 3 years of experience in OSINT, threat research, threat actor profiling, IOC analysis & enrichment, vulnerability intelligence, and cyber threat analysis.
+
+🔍 Areas of Interest
+Cyber Threat Intelligence (CTI)
+Open-Source Intelligence (OSINT)
+Threat Actor Research & Profiling
+Malware & Ransomware Research
+IOC Analysis & Enrichment
+Vulnerability Intelligence
+Threat Intelligence Automation
+Cyber Threat Research
+🧰 Tools & Frameworks
+
+MITRE ATT&CK • Diamond Model • Cyber Kill Chain • Pyramid of Pain • VirusTotal • ANY.RUN • URLscan.io • Shodan • Censys • FOFA • AbuseIPDB • AlienVault OTX
+
+🚀 What I'm Working On
+Threat intelligence research and analysis
+Threat actor and malicious infrastructure investigations
+IOC enrichment and validation
+CTI platform evaluation and improvement
+Security research and continuous learning
+🤝 Let's Connect
+
+I'm interested in connecting with cybersecurity professionals, threat researchers, and security teams to collaborate, share knowledge, and explore opportunities in Cyber Threat Intelligence and Threat Research.
+
+📫 Email: chennabo
+inamahesh04@gmail.com
