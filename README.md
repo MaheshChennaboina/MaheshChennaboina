@@ -12,8 +12,8 @@ IOC Analysis & Enrichment
 Vulnerability Intelligence
 Threat Intelligence Automation
 Cyber Threat Research
-🧰 Tools & Frameworks
 
+🧰 Tools & Frameworks
 MITRE ATT&CK • Diamond Model • Cyber Kill Chain • Pyramid of Pain • VirusTotal • ANY.RUN • URLscan.io • Shodan • Censys • FOFA • AbuseIPDB • AlienVault OTX
 
 🚀 What I'm Working On
@@ -22,8 +22,8 @@ Threat actor and malicious infrastructure investigations
 IOC enrichment and validation
 CTI platform evaluation and improvement
 Security research and continuous learning
-🤝 Let's Connect
 
+🤝 Let's Connect
 I'm interested in connecting with cybersecurity professionals, threat researchers, and security teams to collaborate, share knowledge, and explore opportunities in Cyber Threat Intelligence and Threat Research.
 
 📫 Email: chennaboinamahesh04@gmail.com
