@@ -26,5 +26,4 @@ Security research and continuous learning
 
 I'm interested in connecting with cybersecurity professionals, threat researchers, and security teams to collaborate, share knowledge, and explore opportunities in Cyber Threat Intelligence and Threat Research.
 
-📫 Email: chennabo
-inamahesh04@gmail.com
+📫 Email: chennaboinamahesh04@gmail.com
